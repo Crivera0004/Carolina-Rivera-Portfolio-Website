@@ -1,0 +1,28 @@
+---
+title: "Campaign Insights Dashboard"
+image: "https://placehold.co/600x400?text=Campaign+Dashboard"
+categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+index: 1
+---
+
+#### **Overview**  
+This project involves building involved building a MYbar RSVP system and visualize marketing campaign performance though Instamatics. Metrics were used to track attendance rate, conversion rate, and ROI were tracked across channels using RSVPS, and total attendance.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Visualize and monitor key marketing metrics.  
+- Analyze performance trends across multiple campaigns.  
+- Identify high- and low-performing segments.  
+- Communicate insights through interactive visuals.  
+- Develop data-informed recommendations.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Dashboard development  
+- Campaign analytics  
+- Data wrangling in R  
+- Tableau or R Shiny visualization  
+- Performance measurement
+:::
+:::

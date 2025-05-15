@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#cpp-undeclared-advising-socials-campaign-planning",
+    "href": "strategic-marketing.html#cpp-undeclared-advising-socials-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "CPP Undeclared Advising Socials: Campaign Planning",
+    "text": "CPP Undeclared Advising Socials: Campaign Planning\nIn this project, I took over development for comprehensive and impact marketing campaign to our target market - Undeclared Students at Cal Poly Pomona.Though a comprehensive promotional strategy campaign highlighting information resources to different colleges across Cal Poly Pomona and advising services. From audience segmentation to messaging strategy, I continue to manage the campaign, aligning it with advising objectives and measurable attendance KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#delta-sigma-pi-eta-chi-chapter-brand-audit-positioning",
+    "href": "strategic-marketing.html#delta-sigma-pi-eta-chi-chapter-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "Delta Sigma Pi Eta Chi Chapter: Brand Audit & Positioning",
+    "text": "Delta Sigma Pi Eta Chi Chapter: Brand Audit & Positioning\nThis initiative involved conducting a full brand audit for Delta Sigma Pi, Eta Chi Chapter, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity though there Social Media Marketing.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#oc-comedys-comedy-on-tap-at-noble-ale-brewery-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#oc-comedys-comedy-on-tap-at-noble-ale-brewery-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "OC Comedy’s Comedy On Tap at Noble Ale Brewery: Client Consulting & Campaign Optimization",
+    "text": "OC Comedy’s Comedy On Tap at Noble Ale Brewery: Client Consulting & Campaign Optimization\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement,in hopes of improving ROI and audience engagement.I was apart of a class that was tasked in creating a new campaign to optimization for the business with client input.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics.\nBuzz-Marketing Tastics: Create a plan to create loyal buzz for clients."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Carolina Rivera",
+    "section": "",
+    "text": "I’m an aspiring marketing logistics professional. I specialize in transforming complex designs and information into clear, engaging, and actionable market positioning for brands and companies."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Carolina Rivera",
+    "section": "About Me",
+    "text": "About Me\nI am currently a student studying International Business and Business Marketing from California State Polytechnic University, Pomona under there B.S. in Business Administration Program."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Carolina Rivera",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involves building involved building a MYbar RSVP system and visualize marketing campaign performance though Instamatics. Metrics were used to track attendance rate, conversion rate, and ROI were tracked across channels using RSVPS, and total attendance.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing to real-world challenges. These projects reflect my ability to combine statistical tools, building campaigns, and strategic thinking to inform decisions and drive results.\nWhether it was analyzing campaign performance, creating a promotional plan to then structure media releases, each project is rooted in understanding business structure and strategies. Then creating email formats and organizing the delivery of products to which allowed for supply chain management with logistical thinking and email marketing."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Evaluation: Assessing the success of digital marketing initiatives through data-driven content planning.\nMarketing Strategy & Attribution: Understanding how various channels and tactics contribute to overall success.\nCustomer & Market Insights: Leveraging analytics to understand consumer behavior and optimize marketing strategies for better experiences."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-driven marketing professional with a strong foundation in social media strategy, content creation, and digital marketing analytics. Experienced in managing brand identity and online presence across platforms for diverse industries, including retail, hospitality, and personal care. Proven ability to increase engagement, optimize performance through data analysis, and collaborate cross-functionally to drive campaign success. Adept at using tools such as Google Analytics, Canva, and Meta Business Suite, with a background in project coordination, client relations, and soft bilingual communication skills (English/Spanish). Passionate about creating impactful brand stories and delivering measurable marketing outcomes.\n\n\nTechnical Skills\n\nSoftware: Microsoft 365, Adobe, Asana, Canva, Google Suite, R and Quarto\nSoft Skills: Consumer Service, Skilled Multitasking, Organization, Commitment to Work, and Trainable\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nInternational Business & Marketing\n2022 – 2026\nBusiness Administration\nCal Poly Pomona\n\n\nHigh School Diploma\n2018 – 2022\nHigh School\nGlendora\n\n\n\n\n\nWork Experience\n\nConcessions Film and Marketing Intern, Onni Creative\n[January 2025 – Present]\n\nManage and track day-to-day Concession orders for multiple products and films for entertainment clients.\nConduct continuous outreach to cinema clients through tailored messages about our concessions programs and services.\nCollaborate with the executive team to coordinate marketing strategies that align with client and company goals.\nResearch Systems and Vendors to further the reach and designs of Onni Concessions\n\n\n\n\nSocial Media Manager & Bronco Advising Student Assistant, CPP Office of Student Success\n[July 2023 – Present]\n\nGrew the Undeclared Advising Instagram following by 39.2% in 90 days\n(Strategies)\nRecord, schedule, dispatch, and distribute of campus information to students upon receiving call 50% of work week\nComplete MS excel intense projects and to hone analytical skills with data input"
+  }
+]

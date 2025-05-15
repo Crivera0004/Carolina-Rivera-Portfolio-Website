@@ -1,0 +1,25 @@
+---
+title: "Hi, I'm Carolina Rivera"
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/Rivera%20Headshot%20Square.jpg){style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm an aspiring marketing logistics professional. I specialize in transforming complex designs and information into clear, engaging, and actionable market positioning for brands and companies.
+:::
+:::::
+
+## About Me
+
+I am currently a student studying [International Business and Business Marketing]{.highlight} from California State Polytechnic University, Pomona under there B.S. in Business Administration Program.
+
+## Let's Connect
+
+You can [email me](mailto:CarolinaRiverasEmail@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/carolina-rivera-b8a67a293/).
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio.*

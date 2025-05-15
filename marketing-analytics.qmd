@@ -1,0 +1,32 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying
+marketing to real-world challenges. These projects reflect my ability to
+combine statistical tools, building campaigns, and strategic thinking to
+inform decisions and drive results.
+
+Whether it was analyzing campaign performance, creating a promotional
+plan to then structure media releases, each project is rooted in
+understanding business structure and strategies. Then creating email
+formats and organizing the delivery of products to which allowed for
+supply chain management with logistical thinking and email marketing.
+
+## What You’ll Find
+
+-   **Campaign Performance Evaluation:** Assessing the success of
+    digital marketing initiatives through data-driven content planning.
+-   **Marketing Strategy & Attribution:** Understanding how various
+    channels and tactics contribute to overall success.
+-   **Customer & Market Insights:** Leveraging analytics to understand
+    consumer behavior and optimize marketing strategies for better
+    experiences.
+
+------------------------------------------------------------------------

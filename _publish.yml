@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: f03c0369-4043-401c-81f4-72da8447e09d
+      url: 'https://crivera.quarto.pub/carolina-riveras'
+    - id: 8b9ef921-49e4-49fe-a21a-494aadb28918
+      url: 'https://crivera.quarto.pub/carolina-rivera'

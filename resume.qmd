@@ -1,0 +1,55 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](https://docs.google.com/document/d/1BMGgUTbzkdDnzveMgnY8ZKgXN7i7SsVH_8N6nq3HJMo/edit?usp=sharing "Carolina Rivera Resume").
+
+# Professional Summary
+
+Results-driven marketing professional with a strong foundation in social media strategy, content creation, and digital marketing analytics. Experienced in managing brand identity and online presence across platforms for diverse industries, including retail, hospitality, and personal care. Proven ability to increase engagement, optimize performance through data analysis, and collaborate cross-functionally to drive campaign success. Adept at using tools such as Google Analytics, Canva, and Meta Business Suite, with a background in project coordination, client relations, and soft bilingual communication skills (English/Spanish). Passionate about creating impactful brand stories and delivering measurable marketing outcomes.
+
+# Technical Skills
+
+-   **Software:** Microsoft 365, Adobe, Asana, Canva, Google Suite, R and Quarto
+-   **Soft Skills:** Consumer Service, Skilled Multitasking, Organization, Commitment to Work, and Trainable
+
+# Education
+
+| Degree | Year | College / Department | Institution |
+|------------------|------------------|-------------------|------------------|
+| International Business & Marketing | 2022 – 2026 | Business Administration | Cal Poly Pomona |
+| High School Diploma | 2018 – 2022 | High School | Glendora |
+
+# Work Experience
+
+### Concessions Film and Marketing Intern, Onni Creative
+
+*\[January 2025 – Present\]*
+
+-   Manage and track day-to-day Concession orders for multiple products and films for entertainment clients.
+-   Conduct continuous outreach to cinema clients through tailored messages about our concessions programs and services.
+-   Collaborate with the executive team to coordinate marketing strategies that align with client and company goals.
+-   Research Systems and Vendors to further the reach and designs of Onni Concessions
+
+------------------------------------------------------------------------
+
+### Social Media Manager & Bronco Advising Student Assistant, CPP Office of Student Success
+
+*\[July 2023 – Present\]*
+
+-   Grew the Undeclared Advising Instagram following by 39.2% in 90 days
+-   (Strategies)
+-   Record, schedule, dispatch, and distribute of campus information to students upon receiving call 50% of work week
+-   Complete MS excel intense projects and to hone analytical skills with data input
+
+------------------------------------------------------------------------
